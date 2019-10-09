@@ -1,0 +1,15 @@
+{
+  "development": {
+    "secretOrKey": "wowow",
+    "logfileName": "access.log"
+  },
+  "test": {
+    "secretOrKey": "wowow",
+    "logfileName": "access.log"
+  },
+  "production": {
+    "secretOrKey": "wowow",
+    "logfileName": "access.log"
+
+  }
+}
